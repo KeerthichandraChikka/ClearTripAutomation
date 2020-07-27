@@ -1,0 +1,1 @@
+INFO    2020-01-13 16:22:04,719 [main] com.kc.testcases.BaseTest  - Configuration file is loaded

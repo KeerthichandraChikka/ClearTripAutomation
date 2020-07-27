@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="FlightBookTest(failed)">
+    <classes>
+      <class name="com.kc.testcases.FlightBookTest">
+        <methods>
+          <include name="flightBookTest" invocation-numbers="0"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.kc.testcases.FlightBookTest -->
+    </classes>
+  </test> <!-- FlightBookTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
